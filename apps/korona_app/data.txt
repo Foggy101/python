@@ -1,0 +1,28 @@
+Rysy,2499
+Babia Gora,1725
+Sniezka,1602
+Snieznik,1425
+Tarnica,1346
+Turbacz,1310
+Radziejowa,1262
+Skrzyczne,1257
+Mogielica,1171
+Wysoka Kopa,1126
+Rudawiec,1112
+Orlica,1084
+Wysoka,1050
+Wielka Sowa,1015
+Lackowa,997
+Kowadlo,989
+Jagodna,977
+Skalnik,945
+Waligora,936
+Czupel,933
+Szczeliniec Wielki,919
+Lubomir,904
+Biskupia Kopa,889
+Chelmiec,851
+Klodzka Gora,765
+Skopiec,724
+Sleza,718
+Lysica,612
